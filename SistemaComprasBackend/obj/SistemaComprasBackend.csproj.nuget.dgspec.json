@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUDWIN\\Documents\\DEV\\SistemaComprasBackend\\SistemaComprasBackend\\SistemaComprasBackend.csproj": {}
+    "C:\\Users\\LUDWIN\\Documents\\ProyectoBAD\\SistemaComprasBackend\\SistemaComprasBackend\\SistemaComprasBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUDWIN\\Documents\\DEV\\SistemaComprasBackend\\SistemaComprasBackend\\SistemaComprasBackend.csproj": {
+    "C:\\Users\\LUDWIN\\Documents\\ProyectoBAD\\SistemaComprasBackend\\SistemaComprasBackend\\SistemaComprasBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUDWIN\\Documents\\DEV\\SistemaComprasBackend\\SistemaComprasBackend\\SistemaComprasBackend.csproj",
+        "projectUniqueName": "C:\\Users\\LUDWIN\\Documents\\ProyectoBAD\\SistemaComprasBackend\\SistemaComprasBackend\\SistemaComprasBackend.csproj",
         "projectName": "SistemaComprasBackend",
-        "projectPath": "C:\\Users\\LUDWIN\\Documents\\DEV\\SistemaComprasBackend\\SistemaComprasBackend\\SistemaComprasBackend.csproj",
+        "projectPath": "C:\\Users\\LUDWIN\\Documents\\ProyectoBAD\\SistemaComprasBackend\\SistemaComprasBackend\\SistemaComprasBackend.csproj",
         "packagesPath": "C:\\Users\\LUDWIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUDWIN\\Documents\\DEV\\SistemaComprasBackend\\SistemaComprasBackend\\obj\\",
+        "outputPath": "C:\\Users\\LUDWIN\\Documents\\ProyectoBAD\\SistemaComprasBackend\\SistemaComprasBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LUDWIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

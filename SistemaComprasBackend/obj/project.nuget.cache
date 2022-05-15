@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R3jCe+42rTOIEp5Eg4P0pNQKy9NBbEF65J6pOA5P38x9qIwRafqb88y/+42cFIqc8pcUFLTuDnqPDBGCuGg+9Q==",
+  "dgSpecHash": "O7IIo+oMywIg2g+IzCpvUbOW33n/9rYSARSYVOir498WWXWXQZm8Nw5TXahiEYS/ZTJY6D89WL04SNoxkU2oPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LUDWIN\\Documents\\DEV\\SistemaComprasBackend\\SistemaComprasBackend\\SistemaComprasBackend.csproj",
+  "projectFilePath": "C:\\Users\\LUDWIN\\Documents\\ProyectoBAD\\SistemaComprasBackend\\SistemaComprasBackend\\SistemaComprasBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUDWIN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LUDWIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
